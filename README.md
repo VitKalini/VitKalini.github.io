@@ -22,4 +22,4 @@ The project follows the Clean Architecture principles with a clear separation of
 - Data Layer: Contains data sources (e.g., API services) and repository implementations.
   
 ## 🚀 Getting Started
-Web build avaliable on: https://vitkalini.github.io/
+Web build avaliable on: https://vitkalini.github.io/image-gallery-app/
